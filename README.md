@@ -1,7 +1,6 @@
-<!-- Typing animation header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=1000&center=true&vCenter=true&color=1E90FF&width=500&lines=Interested+in+making+impacts%3F+Me+too+🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=800&color=1E90FF&center=true&vCenter=true&width=500&lines=Interested+in+making+impacts%3F+Me+too+🚀" alt="typing heading"/>
+</p>
 
 <p align="center">
   <em>Hi, I'm Holy — a curious builder who believes that <strong>technology and data drive the future</strong>.<br>
