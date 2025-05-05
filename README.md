@@ -5,6 +5,10 @@
   I believe that <b>technology and data drive the future</b>. <br>
   I'm here to <b>contribute, build, and grow</b> with the community 🚀</em>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+making+impacts%3F+Me+too!;Tech+and+Data+drive+the+future.;I+am+here+to+contribute.💡&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&size=22" alt="Typing SVG">
+</p>
+
 
 ---
 
