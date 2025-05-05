@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1500&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Interested+in+making+impacts%3F+Me+too+🚀" alt="typing heading"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Interested+in+making+impacts%3F+Me+too+🚀" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <em>Hi, I'm Holy — a curious builder who believes that <strong>technology and data drive the future</strong>.<br>
