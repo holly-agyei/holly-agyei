@@ -1,23 +1,18 @@
-<h1 align="center">Hey there 👋, I'm Holy!</h1>
+<h1 align="center">Interested in making impacts? Me too 🚀</h1>
 
 <p align="center">
-  <em><strong>Interested in making impacts? Me too.</strong><br>
-  I believe that <b>technology and data drive the future</b>. <br>
-  I'm here to <b>contribute, build, and grow</b> with the community 🚀</em>
+  <em>Hi, I'm Holy — a curious builder who believes that <strong>technology and data drive the future</strong>.  
+  <br>I'm here to <strong>contribute, collaborate, and create change</strong>.</em>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+making+impacts%3F+Me+too!;Tech+and+Data+drive+the+future.;I+am+here+to+contribute.💡&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&size=22" alt="Typing SVG">
-</p>
-
 
 ---
 
 ### 💡 What I Care About
 
-- 🌍 Building things that make real-world impact  
-- 🧠 Learning the tech behind powerful systems  
-- 🔄 Contributing to meaningful open source projects  
-- 📊 Using data to drive insights and change
+- 🌍 Building things that solve real-world problems  
+- 📊 Using data to generate insight and drive decision-making  
+- 💻 Growing through community and open source contributions  
+- ✨ Empowering others through tech
 
 ---
 
@@ -33,10 +28,7 @@
 
 ---
 
-### 🌱 My First Project
-
-🚀 [Nutritional Info Generator](https://github.com/holly-agyei/nutritional-info-app)  
-_→ This Flask app takes any food input and instantly returns its nutritional breakdown using the Edamam API._
+### 🔥 I am currently working on something cool
 
 ---
 
@@ -53,7 +45,7 @@ _→ This Flask app takes any food input and instantly returns its nutritional b
 
 ---
 
-### 📫 Let's Connect
+### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/holy-agyei-247bab313" target="_blank">
