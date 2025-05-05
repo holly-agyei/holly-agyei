@@ -24,11 +24,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 I am currently working on something cool
+### 🔥 Highlight: My First Project
+
+🧠 **[Nutritional Info Generator](https://github.com/holly-agyei/nutritional-info-app)**  
+_A simple Flask web app that returns the nutritional facts of any food you search using the Edamam API._
 
 ---
 
