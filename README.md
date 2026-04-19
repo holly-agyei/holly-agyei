@@ -4,8 +4,7 @@
 
 
 <p align="center">
-  <em>Hi, I'm Holy🤓, and I that <strong>technology and data drive the future</strong>.<br>
-  I'm here to <strong>Inspect, Contribute, and create change</strong>.</em>
+  <em>Hi, I'm Holy🤓, and I believe that <strong>technology and data drive the future</strong>
 </p>
 
 
