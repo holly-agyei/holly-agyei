@@ -4,16 +4,16 @@
 
 
 <p align="center">
-  <em>Hi, I'm Holy — a curious builder who believes that <strong>technology and data drive the future</strong>.<br>
-  I'm here to <strong>contribute, collaborate, and create change</strong>.</em>
+  <em>Hi, I'm Holy🤓, and I that <strong>technology and data drive the future</strong>.<br>
+  I'm here to <strong>Inspect, Contribute, and create change</strong>.</em>
 </p>
 
 
 ### 💡 What I Care About
 
 - 🌍 Building things that solve real-world problems  
-- 📊 Using data to generate insight and drive decision-making  
-- 🖥️ Growing through community and open source contributions  
+-  Using data to generate insight and drive decision-making  
+-  Growing through community and open source contributions  
 - ✨ Empowering others through tech
 
 ---
